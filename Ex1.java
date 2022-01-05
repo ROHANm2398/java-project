@@ -11,9 +11,9 @@ public class Ex1 {
 		System.out.println("B task");	
 
 	}
-	public void C()
+	public void d()
 	{
-		System.out.println("C task");	
+		System.out.println("d task");	
 
 	}
 		//java case sensitive
@@ -23,7 +23,7 @@ public class Ex1 {
 		
 		obj1.A();
 		obj1.B();
-		obj1.C();
+		obj1.d();
 		System.out.println("hello");
 		System.out.println(0+9);
 	}
